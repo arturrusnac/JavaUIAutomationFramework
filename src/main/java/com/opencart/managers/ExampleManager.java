@@ -3,4 +3,5 @@ package com.opencart.managers;public class ExampleManager {
 
         System.out.println("Hello world!");
     }
+
 }
