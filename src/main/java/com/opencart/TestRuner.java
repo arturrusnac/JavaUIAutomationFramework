@@ -7,6 +7,7 @@ import com.opencart.pageobjects.HomePage;
 import com.opencart.pageobjects.RegisterPage;
 import org.openqa.selenium.*;
 
+
 public class TestRuner {
     public static void main(String[] args) throws InterruptedException {
         // Define a driver Object that will be used for the future actions.
